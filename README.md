@@ -4,7 +4,7 @@
 A passionate **Electronics and Communication Engineering (ECE) student**, pursuing my degree from **NIT Hamirpur**.  
 
 🌱 Currently exploring **DSA, Web Development, and SQL**  
-🚀 Aspiring to become a Software Engineer at Google/Microsoft/Amazon  
+🚀 Aspiring to become a Software Engineer 
 💬 Ask me about **C++, DSA, Express.js, Node.js, and SQL**  
 
 ## 🛠️ Skills  
