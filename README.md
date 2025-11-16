@@ -25,13 +25,6 @@ A passionate **Electronics and Communication Engineering (ECE) student**, pursui
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🛠️ Skills  
-- **Languages:** C++, JavaScript, TypeScript, SQL  
-- **Web Development:** HTML, CSS, React, Express.js, Node.js  
-- **Databases:** MongoDB, MySQL  
-- **Core Subjects:** DBMS, OOPS, DSA, Operating System, Microprocessor, Digital Electronics  
-- **Other Tools:** Git, GitHub, VS Code  
-
 ## 🔗 Connect with me  
 - [LinkedIn](https://www.linkedin.com/in/anjali-jamwal-713585260)  
 - [LeetCode](https://leetcode.com/u/anj_jam_/)  
