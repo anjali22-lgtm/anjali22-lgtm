@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Jamwal</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast | Python Developer | Electronics and Communication Engineer
+AI & Machine Learning Enthusiast | Python Developer | 🎓 Electronics and Communication Engineering (ECE) Graduate
 </h3>
 
 <p align="center">
