@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Jamwal</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast | Python Developer | Computer Science Graduate
+AI & Machine Learning Enthusiast | Python Developer | Electronics and Communication Engineer
 </h3>
 
 <p align="center">
@@ -12,7 +12,6 @@ Passionate about building intelligent applications using AI, Machine Learning, a
 
 # 🚀 About Me
 
-- 🎓 Computer Science Graduate
 - 🤖 Currently learning Artificial Intelligence, Machine Learning and Generative AI
 - 💻 Strong foundation in Python, Data Structures & Algorithms and Full Stack Development
 - 🌱 Exploring LLMs, RAG, AI Agents and Deep Learning
